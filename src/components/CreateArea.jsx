@@ -39,7 +39,7 @@ function CreateArea(props) {
         name="content"
         onChange= {handleChange}
         value={note.content}
-        placeholder="write something you don't want to forget"
+        placeholder="jot down something you (don't) want to forget"
         rows="3"
         /> 
           <button 
